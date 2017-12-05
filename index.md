@@ -8,8 +8,8 @@ title: Suffering is Happiness
 
 ## Links ##
 ### About the Authors ###
-+ [David Brooks](/author_profiles/brooks.html/)
-+ [Mihaly Csikszentmihalyi](/author_profiles/mihaly.html/)
++ [David Brooks](/author_profiles/brooks.html)
++ [Mihaly Csikszentmihalyi](/author_profiles/mihaly.html)
 
 This website is obviously in its primary stages.
 
