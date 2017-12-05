@@ -3,7 +3,7 @@ layout: default
 title: Suffering is Happiness
 ---
 
-# Let the Joy Flow Inside You :) #
+# Let the Joy Flow Through You :) #
 {: style="text-align: center"}
 
 ## Links ##
