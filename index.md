@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Suffering is Happiness
+---
 
-You can use the [editor on GitHub](https://github.com/Nikleon/nikleon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Let the Joy Flow Inside You :) #
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![alt text](/assets/Csikszentmihalyi_Mihaly.gif "Csikszentmihalyi Mihaly")
+*<< This is what true happiness looks like ^o^*
 
-### Markdown
+## Quotes ##
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> “A joyful life is an individual creation that cannot be copied from a recipe.”
+> -- <cite>Mihaly Csikszentmihalyi</cite>
 
-```markdown
-Syntax highlighted code block
+> “Enjoyment appears at the boundary between boredom and anxiety, when the challenges are just balanced with the person's capacity to act.”
+> -- <cite>Mihaly Csikszentmihalyi</cite>
 
-# Header 1
-## Header 2
-### Header 3
+This website is obviously in its primary stages.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nikleon/nikleon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[About This Site](/about.html)
