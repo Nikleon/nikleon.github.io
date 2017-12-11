@@ -23,3 +23,5 @@ Finally, there is a note to those who are going through tough times, and what th
 
 ### Misc ###
 -- [Code for this website](https://drive.google.com/drive/folders/1qPEFpfmgvpbsi8vXBTGlNEJtH-3gkhTy?usp=sharing) --
+
+_\* ^^ b/c Andrew is a dingus and didn't tell me that this text should be appended in TurnItIn_
