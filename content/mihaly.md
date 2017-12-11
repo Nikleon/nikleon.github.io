@@ -35,13 +35,7 @@ Imperative to flow is the activity used to achieve it. And while this can genera
     + Even if you're working your dream job, it's not going to be worth anything if you aren't given free reign. _(See #Creativity)_
   + Sense of impact
     + Often neglected, a secondary incentive can be necessary to keep you motivated when your interest or willpower dies down. This can be anything, from gaining recognition from your peers, to getting an award at a fair, to spreading awareness for a political cause you believe in.
-
-### Mastery In Balance ##
-_%BODY%_
-
-### Creativity ###
-_%BODY%_
-
+    
 ## **Further Resources** ##
 [Mihaly TED talk](https://www.youtube.com/watch?v=fXIeFJCqsPs)
 
