@@ -18,3 +18,6 @@ In my own experience, whilst I spend the majority of my time reading and coding 
 My own experience with flow can be summed up as having been “in constant pursuit of knowledge” – a cliché motivation, but a valid one nevertheless.
 
 From this follows that I am always learning, not for the sake of achieving a grade, but for the sake of learning itself.
+
+[Go Home](/index.html)
+{: style="text-align: right"}

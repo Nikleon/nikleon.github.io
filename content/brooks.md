@@ -9,10 +9,5 @@ title: Note
 ![David Brooks](/assets/David_Brooks.jpeg)
 {: style="text-align: center"}
 
-## **Philosophy** ##
-
-## **Quotes** ##
-
-## **Strategies for Happiness** ##
-
-## **Further Resources** ##
+[Go Home](/index.html)
+{: style="text-align: right"}

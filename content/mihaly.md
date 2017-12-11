@@ -12,23 +12,21 @@ title: Background
 {: style="text-align: center"}
 
 ## **Philosophy** ##
-Mihaly Csikszentmihalyi is a Hungarian psychology professor...
+Mihaly Csikszentmihalyi is a Hungarian psychology professor known for his work on the topics of creativity and happiness. He is primarily known for his theory of [Flow](https://www.wikiwand.com/en/Flow_(psychology)), a state of mind consisting of high levels of engagement with an activity (which is expanded upon on the [next page](/content/flow.html)).
+
+Professor Csikszentmihalyi believes that humans do not find happiness through material gain. While he agrees that religion and meditation are valid approaches to achieving happiness, he argues that the reason these approaches work are because they are activities that align with his criteria for Flow, and thus are partials of a more general solution.
 
 ## **Quotes** ##
 > “A joyful life is an individual creation that cannot be copied from a recipe.”
-> -- <cite>Mihaly Csikszentmihalyi</cite>
-
-Analysis of quote
 
 > “Enjoyment appears at the boundary between boredom and anxiety, when the challenges are just balanced with the person's capacity to act.”
-> -- <cite>Mihaly Csikszentmihalyi</cite>
 
-Analysis of quote
+> "The best moments usually occur if a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile."
 
 ## **Strategies for Happiness** ##
 ### Developing a passion ###
-_%INTRO%_
-+ Choose a passion and stick to it. For something to develop into a "passion", it doesn't have to start of as the activity of your dreams. According to %%, the only things required for something to be a passion are:
+Imperative to flow is the activity used to achieve it. And while this can generally be any activity that requires focus, it is more easily induced when doing something that one is passionate about.
++ Choose a passion and stick to it. For something to develop into a "passion", it doesn't have to start of as the activity of your dreams. According to [this podcast](https://collegeinfogeek.com/cal-newport/), the only things required for something to be a passion are:
   + Mastery
     + Not surprisingly, one of the requirements for something to count as your passion is for you to actually be good at it. _(See #Mastery_In_Balance)_
   + Autonomy
@@ -46,3 +44,8 @@ _%BODY%_
 
 ## **Further Resources** ##
 [Mihaly TED talk](https://www.youtube.com/watch?v=fXIeFJCqsPs)
+
+[Flow: The Psychology of Optimal Experience](https://play.google.com/store/books/details/Mihaly_Csikszentmihalyi_Flow?id=QVjPsd1UukEC)
+
+[Go Home](/index.html)
+{: style="text-align: right"}
