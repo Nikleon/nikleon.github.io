@@ -1,16 +1,22 @@
 ---
 layout: default
-title: Suffering is Happiness
+title: Home
 ---
 
-# Let the Joy Flow Through You :) #
+# Let the Joy _Flow_ Through You #
 {: style="text-align: center"}
 
-## Links ##
-### About the Authors ###
-+ [David Brooks](/author_profiles/brooks.html)
-+ [Mihaly Csikszentmihalyi](/author_profiles/mihaly.html)
+## About This Page ##
+This site stands to be a guide for those who "can't decide on their calling", are constantly "tired, bored, and unhappy", or just "aren't interested in anything".
 
-This website is obviously in its primary stages.
+The following pages will outline the research of the well-known European "positive psychologist", Mihaly Csikszentmihalyi, and enumerate his strategies to live out a happy and productive life.
 
-[About This Site](/about.html)
+Thereafter, the process is exemplified by providing an overview of my personal experience with the Flow method.
+
+Finally, there is a note to those who are going through tough times, and what they can do to return to an equally fulfilling lifestyle, according to NY Times editor David Brooks.
+
+## Pages in Order ##
++ [**Background:** Mihaly Csikszentmihalyi](/content/mihaly.html)
++ [**Intro:** What is Flow?](/content/flow.html)
++ [**Example:** My Personal Experience With Flow](/content/example.html)
++ [**Note:** Suffering is Happiness](/content/brooks.html)
