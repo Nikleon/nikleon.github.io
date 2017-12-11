@@ -3,6 +3,10 @@ layout: default
 title: Example
 ---
 
+[<-- What is Flow?](/content/flow.html) | [Suffering is Happiness -->](/content/brooks.html)
+# **My Personal Experience With Flow** #
+{: style="text-align: center"}
+
 As a certain, modern age scientific powerhouse once said:
 > “Strenuous intellectual work and looking at God’s nature are the reconciling, fortifying, yet relentlessly strict angels that will lead me through all of life’s troubles.”
 > -- <cite>Albert Einstein (18 y/o)</cite>

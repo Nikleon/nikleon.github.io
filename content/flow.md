@@ -3,6 +3,7 @@ layout: default
 title: Intro
 ---
 
+[<-- Mihaly Csikszentmihalyi](/content/mihaly.html) | [My Personal Experience With Flow -->](/content/example.html)
 # **What is Flow?** #
 {: style="text-align: center"}
 

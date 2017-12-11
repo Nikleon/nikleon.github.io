@@ -3,6 +3,7 @@ layout: default
 title: Background
 ---
 
+[<-- Home](/index.html) | [What is Flow? -->](/content/flow.html)
 # **Mihaly Csikszentmihalyi** #
 {: style="text-align: center"}
 ![Mihaly Csikszentmihalyi](/assets/Csikszentmihalyi_Mihaly.gif)
