@@ -4,6 +4,17 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: ttms/chapter-intro
+  sections:
+  - file: ttms/assembly
+  - file: ttms/embedding
+  - file: ttms/analysis
+- file: reveng/chapter-intro
+  sections:
+  - file: reveng/magnetic-pendulum
+  - file: reveng/strange-attractors
+- file: phylim/chapter-intro
+  sections:
+  - file: phylim/physical-constraints
+  - file: phylim/topological-qc
+  - file: phylim/observer-theory
