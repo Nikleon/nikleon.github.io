@@ -1,1 +1,1 @@
-# Implications on realizable computation
+# Implications for realizable computation

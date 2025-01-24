@@ -1,4 +1,4 @@
-# Strange attractors (Lorenz, Rössler)
+# Strange attractors
 
 ## Chaotic systems emulate undecidable computations
 
