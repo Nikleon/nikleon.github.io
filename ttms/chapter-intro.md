@@ -1,1 +1,1 @@
-# Template Turing Machines
+# Template TMs

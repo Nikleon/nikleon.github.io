@@ -1,4 +1,4 @@
-# Work In Progress (daily notes)
+# WIP (daily notes)
 
 ## 24.1
 

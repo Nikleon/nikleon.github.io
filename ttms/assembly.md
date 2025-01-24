@@ -1,4 +1,4 @@
-# Assembling
+# Assembly
 
 ## Tape heads stop at cell boundaries
 
